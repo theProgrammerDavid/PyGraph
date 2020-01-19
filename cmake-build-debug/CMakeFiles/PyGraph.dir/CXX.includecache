@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/CLionProjects/PyGraph/Constants.h
+
+/home/david/CLionProjects/PyGraph/display/menu.cpp
+menu.h
+/home/david/CLionProjects/PyGraph/display/menu.h
+
+/home/david/CLionProjects/PyGraph/display/menu.h
+fstream
+-
+string
+-
+sstream
+-
+../Constants.h
+/home/david/CLionProjects/PyGraph/Constants.h
+
